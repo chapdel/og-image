@@ -208,7 +208,7 @@ function drawTitleText(ctx: CanvasRenderingContext2D) {
 
   drawText({
     ctx,
-    text: meta,
+    text: '',
     font: `400 ${fontSizeSmall}px/${fontSizeSmall * 1.5}px Poppins`,
     x: paddingLeft,
     y: paddingTop + height + 24,
