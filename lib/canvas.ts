@@ -34,7 +34,7 @@ export function getConfig() {
     fontSize: 64,
     fontSizeSmall: 24,
     profileImgSize: 60,
-    logoWidth: 70,
+    logoWidth: 75,
     logoHeight: 60,
     title:
       '',
