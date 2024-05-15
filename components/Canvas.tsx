@@ -120,12 +120,12 @@ const baseUrl = getBaseUrl();
 
 const defaultValues = {
   logo: `${baseUrl}/sample-logo.png`,
-  bg: `${baseUrl}/sample-background.jpg`,
+  bg: ``,
   title:
     'This is a dynamically created image in a canvas element. Lorem ipsum dolor sit amet consectetur adipiscing elit et lorem ipsum dolorem.',
-  meta: '22 January 2022',
+  meta: '',
   color: '#ffffff',
-  author: 'Kevin',
+  author: '',
   authorImg: 'https://avatars.githubusercontent.com/u/51168758?s=80&v=4',
 };
 
